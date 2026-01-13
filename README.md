@@ -42,7 +42,7 @@ read documentation and forum threads and eventually got it working using this se
 
 ## Setup
 
-1. Start this `ghcr.io/ownbee/hass-otbr-docker` container, see the docker-compose file and modify the environment variables
+1. Start this `ghcr.io/squigglyjuicebox/thread-router` container, see the docker-compose file and modify the environment variables
    according to you environment. The env variables are mapped from the addon config to these env
    variables:
 
